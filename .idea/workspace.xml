@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="577c433b-2c02-4319-a3ec-17bd9bf1076f" name="Changes" comment="HW1 completed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW3/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +38,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/Gregory/Desktop/GB/Exceptions&Errors/ExceptionsErrorsSeminars"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
